@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "CapstoneProject_2018_2 team1:i_stick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckddn9496/i_stick.git"
+  },
+  "author": "ckddn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckddn9496/i_stick/issues"
+  },
+  "homepage": "https://github.com/ckddn9496/i_stick#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.16.0"
+  }
+}
